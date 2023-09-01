@@ -118,4 +118,6 @@ footer {
 h1{
 	 text-align: center;
 }
-
+a:hover{
+color:blue;
+}
